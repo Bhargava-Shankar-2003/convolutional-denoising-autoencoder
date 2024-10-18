@@ -11,7 +11,7 @@ The goal is to design a convolutional autoencoder that can learn to remove noise
 
 ## Convolution Autoencoder Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/a3afc089-cac0-4c78-b3cf-6aad751d8029)
 
 ## DESIGN STEPS
 
